@@ -1,7 +1,38 @@
+Bio for Code-Foo Challenge
 
+	My name is William Robertson. I am 20 years old and a student of DeVry university. My major of study is game simulation programming. I have been passionate about video games ever since I first found out about them when I was little. I love playing with them and I also love working with them. I am very self motivated and have even moved away from friends and family to follow my dreams. I am a very hard worker who has been working since I was 12 years old. I was taught the value of hard work from a young age by my farther and grandfather who quickly put me to work on their horse boarding stables. When I was 15 year old I even found a job working for a small video game company so I could start paying for my own bills and to give myself more experience. I am always looking for new ways to prove myself to others and to help make myself better so I can help people better.
 WORK EXPERIENCE:
-Extreme Games, (Bakersfield, CA)					  May 2005 – February 2008
+Extreme Games, (Bakersfield, CA)				May 2005 â€“ February 2008
 Sales Associate
-•	Provided excellent customer service in person and through the telephone
-•	Helped organize floor design and refilled stock on the selling floor
-•	Handled money and sells inventory
+* Provided excellent customer service in person and through the telephone
+* Helped organize floor design and refilled stock on the selling floor
+* Handled money and sells inventory
+
+Robertson Stables, (Bakersfield, CA)				November 2001- February 2008
+Stable hand
+* Worked with and handled animals 
+* Handled farm vehicles
+* Bucked hay
+Code-Foo Challenge
+Questions
+1) How many pennies could you put on the Golden Gate Bridge without any of them overlapping? For this question, please write out each step in your thought process.
+First I would make a list of the requirements and restrictions of the question
+	Pennies
+	Fit on
+	Golden Gate Bridge
+	not overlapping
+Then I would find the measurements for each item
+	Pennies measurement diameter = Pd
+	Golden Gate Bridge measurement length =Gl  width =Gw area = Ga 
+To find out how many pennies would fit on the Golden Gate Bridge I would divide the Pd by the Ga and that would give me how many pennies could fit.
+2) Our images have a ratio of 16:9, and our design layouts have 12 pixel wide increments (there are no limits on height). Give examples of three image sizes that would have the correct ratio and would fit the design layout.
+
+
+3) What is the minimum number of moves required for a knight to cover the entire chess board? Write a program to prove it. Provide a graph with the move number on the x axis and the number of squares covered on the y axis.
+      A chess board is 8x8, making the area 64. A knight can move +2 from its starting position either along the x or y axis, then it moves -1 or +1 along the opposite axis that it first moved, Knight cannot move pasted the 8x8 perimeter . 
+
+4) Creatively prove to us that you meet our value â€“ Fire â€“ that this would be more than just a job to you, and that you are passionate about us.
+      Anyone that knows me will say that I am very passionate about video games. I am not someone who just looks for the most popular video game being played , but I also look at many other aspects of video games, like their history, the challenges they have faced, the evolution,  and many others.  Not many people can say that they know the ins and outs of the ESRB rating system or its history.  I have turned most every school assignment I have ever had into something about video games, where it be about the first arcade system or the rise of the video game consoles. 
+      Ever since I was little I have dreamt of being part of the video game industry in some way, shape, or forum. I have not just been sitting idle either to accomplish this dream. I even decided to make my major of study in college video games. I am currently a Game Simulation Programming major, who has been progressing through his courses without fail. I am always looking for ways to better my knowledge of the video game industry and I believe this could be a great opportunity to gain more skills,  knowledge, and possibly a place within the industry. 
+      I have not worked for many different companies. The main reason for this is when I become committed to something I cannot help but become loyal and passionate to it. This causes me to do whatever I can to keep my position within a company and to advance it. When I start something new I plan on it becoming something long term rather than sort term.
+       The one thing that I hate most is disappointing someone by not doing the best I can. I am a very reliable and trust worthy person who wants nothing more than to help others and work with something that I am passionate about. When I first found out about this challenge I started to research IGN immediately. IGN peeked my interests highly and I began to work on the challenge diligently. My passion for video games has brought me to IGN and hopefully IGN will be able to help my passion grow even further.
